@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pelagic-campus-448812-p2",
+  "private_key_id": "8ae4a914be34ecf58c51a9ee9c7782bf1d3b8f83",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4FKNHSPA45lxY\nKZXUImXB7qjfHDafNyNirBTKDG/es6b53vAiGkcZrxYGg9OGAV2VtvxfLn0NDBqi\nSC4wNyFRxugrh9x8umB6WzKLd6PMLdHdpjHWJKsj2HVGdyMw/B+Yoq1ZLefoPbUV\n4eUf+NARYKn2CBeeuJ5lhI/L46ga3Q4CJTHVn2EvNOXSvdtV8EfYz8wbGgXAUtMd\nl8yoxnxS57UW0XmzHJ+9etuHNz/KMOlkkjpau0FKT5PQyB0SDr5m6yvKLjcjuVln\nPnIbzqBhinD0un9sA1zUxl/1syrXKbPsK9kApyedG2WQOS8N9kkIf1ahNpPao2n7\nSp4pMBVrAgMBAAECggEANhZ2TXVMhGOHga4iZJUA0kVmYDwhfpHMd2s5po6V9llS\nODw90b9n4c+UyLBGYCsZjOqZ5/u4abODReiwjaE9TJKF2HiQnCOFQp52UQ2D1vQl\npJt3LEVU9fDdsKlD8Vo7jHVMOxZmfFJZWYco9EZ/GIQPHIgPLKdxf0G+oLmRRObr\n4T1L5GbG31FWiAExoYRtoTQjAQzjOfN+mZgyGyHkV9UR/3oclq4X+fDtiEYmGK9C\npNKP0W0jOxkafecMajpbdgOMRkLipavZl3YIzwxvH/VW/FOa0qi5Jvv/6O+xDAKl\n1f1nqwLdp1svZMZKqC53fLWRwSdvFrY1kWaxY2f7WQKBgQDt+IbrJqu5UurTqUpj\naVtOeyfWktrvECAIXrEf+H3V/cx9WNMMJs9gf74MJeGii4nKbtdaCFiaIyJ56AeZ\no36nrhfrfAv9qQ5GUHFS9cHonDE3hDiijl5WM6TakObYgD6adp5rXE+Q2WsVLaR9\nVkxWVM3agHgd48jeCNjyCpHDYwKBgQDGBudmMCSHOoXG+oT9CUo9HIR+eTEy+wI2\n2K5ndhahbjhhf6flIChVZT/MXcu3EHbHYGL/6LXTer04+klaaK7lROtjwAecWPRE\n3Xfh2sSZ4VpvVP5jPX0Xs/yccKsjtssrNjczLoj31EMZRkL+24KTM1tb2m2rLCO7\n9tqvpdy4WQKBgGd+TH78RHbGvuXqnDV73n/VQ9An8htCMgwx0mqLEX79b++br717\nK3lWVPrHhsfAU968MeAv/Qib+yR1asjAuBaIulJpknVxDoo59e8Ufo6BT05LrK3V\nqOVodGux1ROXQqK+r8sVTG08gTumrADuhSiOnTBH6vVk2TjnNCKfwiDtAoGBAJ5b\nNwCIzy00p3YPL/oJS8zC2VEqKSXThFnHvPAPhtlhAsU1CFY5+QcRCIutFhM2n0Wg\n1oo+1ehf5qGBxNb/j5zYGESUc4GbwPqxAAUkpMNJasBM/4Ds0vP5grC3iKPusVnE\n6S+MrwtAOsgjX7/eWfTMxOoXKkwP6COPrCF6SZ9BAoGAWSnzmqPLS82nHvpldeCI\ntkrS6z0L8QIdEMkLfXTBbEgxzdVLGhqpqgghzusFGPvnggOCFOYbETY7yb6h4SD0\n4z2c3zARl1yf/yVHW7PL66vb4A8WcIg4Ig7Em5F3fTGZIDRscZKzUL/H+wN9jd6m\nrYry875DXRjLY6h5rq+7iTI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gemini-api-service-account-698@pelagic-campus-448812-p2.iam.gserviceaccount.com",
+  "client_id": "117820182807730084774",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gemini-api-service-account-698%40pelagic-campus-448812-p2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
